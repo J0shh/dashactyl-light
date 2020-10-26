@@ -6,7 +6,7 @@ This adds a light theme to Dashactyl.
 `git clone https://github.com/J0shh/dashactyl-light`
 2. Go in settings.config and change defaulttheme to light.
 `"version": "0.1.2-themes2",
- "defaulttheme": "default",`
+ "defaulttheme": "light",`
  3. Restart your dashboard.
 `forever restart index.js`
 
